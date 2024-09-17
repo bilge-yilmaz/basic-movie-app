@@ -1,3 +1,20 @@
+# Movie App
+
+A simple movie application built with React. This app allows users to search for movies, view details, and manage a list of their favourite movies.
+
+## Features
+
+- Search for movies using the OMDb API
+- Add and remove movies from a favourites list
+- Persist favourites in localStorage
+
+## Technologies
+
+- React
+- Bootstrap for styling
+- OMDb API for movie data
+
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
